@@ -1,0 +1,33 @@
+id,text
+1,"<p>Obviously this is hypothetical, but is true? I know ""perfect fitness function"" is a bit hand-wavy, but I mean it as we have a perfect way to measure the completion of any problem.</p>
+"
+2,"<p>I'm curious about Artificial Intelligence. In my everyday job I develop standard applications, like websites with basic functionalities like user subscription, file upload, forms saved in a database... </p>
+
+<p>I mainly know of AI being used in games or robotics fields. But can it be useful in ""standard"" application development?</p>
+"
+3,"<p>I've heard of AI that can solve math problems. Is it possible to create a 'logic system' equivalent to humans that can solve mathematics in the so called 'beautiful' manner?  Can AI find beauty in mathematics and solve problems other than using brute force? Can you please provide with examples where work on this is being done? </p>
+"
+4,"<p>I'm trying to gain some intuition beyond definitions, in any possible dimension. I'd appreciate references to read.</p>
+"
+5,"<p>It seems that deep neural networks are making improvements largely because as we add nodes and connections, they are able to put together more and more abstract concepts. We know that, starting from pixels, they start to recognize high level objects like cat faces, chairs, and written words. Has a network ever been shown to have learned a more abstract concept that a physical object? What is the ""highest level of abstraction"" that we've observed?</p>
+"
+6,"<p>I'm a bit confused about the definition of life. Can AI systems be called 'living'? Because they can do most of the things that we can. They can even communicate with one another. </p>
+
+<p>They are not formed of what we call cells. But, you see, cells are just a collection of several chemical processes which is in turn non-living just like AI is formed of several lines of code.</p>
+"
+7,"<p>Can one actually kill a machine? Not only do we have problems in defining life, we also have problems in defining death. Will this also be true in artificial life and artificial intelligence?</p>
+"
+8,"<p>Generally, people can be classified as aggressive (Type A) or passive. Could the programming of AI systems cause aggressive or passive behavior in those AIs?</p>
+"
+9,"<p>Assuming mankind will eventually create artificial humans, but in doing so have we put equal effort into how humans will relate to an artificial human, and what can we expect in return? This is happening in real-time as we place AI trucks and cars on the road. Do people have the right to question, maybe in court, if an AI machine breaks a law?</p>
+"
+10,"<p>AI death is still unclear a concept, as it may take several forms and allow for ""coming back from the dead"". For example, an AI could be somehow forbidden to do anything (no permission to execute), because it infringed some laws.</p>
+
+<p>""Somehow forbid"" is the topic of this question. There will probably be rules, like ""AI social laws"", that can conclude an AI should ""die"" or ""be sentenced to the absence of progress"" (a jail). Then who or what could manage that AI's state?</p>
+"
+11,"<p>Can self-driving cars deal with snow, heavy rain, or other weather conditions like these? Can they deal with unusual events, such as <a href=""http://beijingcream.com/wp-content/uploads/2012/06/Ducks-galore-2.jpeg"" rel=""noreferrer"">ducks on the road</a>?</p>
+
+<p><a href=""https://i.stack.imgur.com/a0PVLm.jpg"" rel=""noreferrer""><img src=""https://i.stack.imgur.com/a0PVLm.jpg"" alt=""ducks on the road""></a></p>
+"
+12,"<p>Most of the people is trying to answer question with a neural network. However, has anyone came up with some thoughts about how to make neural network ask questions, instead of answer questions? For example, if a CNN can decide which category an object belongs to, than can it ask some question to help the the classification?</p>
+"
