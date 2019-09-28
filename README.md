@@ -1,0 +1,2 @@
+# SimilarDocuments
+Based on the query document, retrieving the top 5 documents which are similar to the query document. After preprocessing the data, the task is to convert the documents to vectors, so that cosine similarity can be calculated between two vectors. The vectorizer utilised here is Tfidf vectorizer, which works fine for a small scale project. This is very basic level project and can be improved according to the need. 
